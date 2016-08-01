@@ -1,5 +1,5 @@
 import com.goit.javaonline3.nod.CustomScanner;
-import com.goit.javaonline3.nod.GCD;
+import com.goit.javaonline3.nod.Gcd;
 
 public class Runner {
 
@@ -10,6 +10,8 @@ public class Runner {
         int firstNumber = CustomScanner.getInt();
         int secondNumber = CustomScanner.getInt();
 
-        System.out.println("Greatest common divisor for your two numbers is: " + GCD.findGCD(firstNumber, secondNumber));
+        System.out.println("Greatest common divisor for your two numbers is: " + Gcd.findGcd(firstNumber, secondNumber));
+
+        CustomScanner.close();
     }
 }

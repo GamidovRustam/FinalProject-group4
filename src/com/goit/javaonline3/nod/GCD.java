@@ -1,8 +1,8 @@
 package com.goit.javaonline3.nod;
 
-public class GCD {
+public class Gcd {
 
-    public static int findGCD(int firstNumber, int secondNumber) {
+    public static int findGcd(int firstNumber, int secondNumber) {
         int moduleOfMinimalNumber = Math.abs(firstNumber);
         int gcd = 0;
 
