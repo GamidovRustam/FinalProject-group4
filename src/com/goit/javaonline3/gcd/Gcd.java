@@ -1,4 +1,4 @@
-package com.goit.javaonline3.nod;
+package com.goit.javaonline3.gcd;
 
 public class Gcd {
 

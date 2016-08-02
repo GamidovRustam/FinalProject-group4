@@ -1,5 +1,5 @@
-import com.goit.javaonline3.nod.CustomScanner;
-import com.goit.javaonline3.nod.Gcd;
+import com.goit.javaonline3.gcd.CustomScanner;
+import com.goit.javaonline3.gcd.Gcd;
 
 public class Runner {
 
